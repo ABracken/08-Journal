@@ -1,0 +1,16 @@
+C:\Users\Adriann\Documents\GitHub\08-Journal\Journal\Journal\obj\Debug\MainWindow.g.cs
+C:\Users\Adriann\Documents\GitHub\08-Journal\Journal\Journal\obj\Debug\App.g.cs
+C:\Users\Adriann\Documents\GitHub\08-Journal\Journal\Journal\obj\Debug\MainWindow.baml
+C:\Users\Adriann\Documents\GitHub\08-Journal\Journal\Journal\obj\Debug\MyJournal.csproj.GenerateResource.Cache
+C:\Users\Adriann\Documents\GitHub\08-Journal\Journal\Journal\obj\Debug\EditWindow.g.cs
+C:\Users\Adriann\Documents\GitHub\08-Journal\Journal\Journal\bin\Debug\MyJournal.exe.config
+C:\Users\Adriann\Documents\GitHub\08-Journal\Journal\Journal\obj\Debug\MyJournal_MarkupCompile.cache
+C:\Users\Adriann\Documents\GitHub\08-Journal\Journal\Journal\obj\Debug\MyJournal_MarkupCompile.lref
+C:\Users\Adriann\Documents\GitHub\08-Journal\Journal\Journal\bin\Debug\MyJournal.exe
+C:\Users\Adriann\Documents\GitHub\08-Journal\Journal\Journal\bin\Debug\MyJournal.pdb
+C:\Users\Adriann\Documents\GitHub\08-Journal\Journal\Journal\obj\Debug\EditWindow.baml
+C:\Users\Adriann\Documents\GitHub\08-Journal\Journal\Journal\obj\Debug\MyJournal.g.resources
+C:\Users\Adriann\Documents\GitHub\08-Journal\Journal\Journal\obj\Debug\MyJournal.Properties.Resources.resources
+C:\Users\Adriann\Documents\GitHub\08-Journal\Journal\Journal\obj\Debug\MyJournal.exe
+C:\Users\Adriann\Documents\GitHub\08-Journal\Journal\Journal\obj\Debug\MyJournal.pdb
+C:\Users\Adriann\Documents\GitHub\08-Journal\Journal\Journal\obj\Debug\MyJournal.csprojResolveAssemblyReference.cache
